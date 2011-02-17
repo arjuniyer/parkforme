@@ -34,7 +34,10 @@ GEM
     erubis (2.6.6)
       abstract (>= 1.0.0)
     i18n (0.5.0)
+<<<<<<< HEAD
     json (1.5.1-x86-mingw32)
+=======
+>>>>>>> 7aaf42a230f96e03312112bf572d33ac45fe625c
     mail (2.2.15)
       activesupport (>= 2.3.6)
       i18n (>= 0.4.0)
@@ -81,13 +84,24 @@ GEM
       nokogiri (>= 1.2.0)
       rack (>= 1.0)
       rack-test (>= 0.5.3)
+<<<<<<< HEAD
+=======
+    ym4r (0.6.1)
+>>>>>>> 7aaf42a230f96e03312112bf572d33ac45fe625c
 
 PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
+<<<<<<< HEAD
   json
+=======
+>>>>>>> 7aaf42a230f96e03312112bf572d33ac45fe625c
   rails (= 3.0.3)
   rspec
   sqlite3-ruby
   webrat
+<<<<<<< HEAD
+=======
+  ym4r
+>>>>>>> 7aaf42a230f96e03312112bf572d33ac45fe625c

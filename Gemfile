@@ -2,9 +2,13 @@ source 'http://rubygems.org'
 #source :gemcutter
 
 gem 'rails', '3.0.3'
+<<<<<<< HEAD
 gem 'json'
 #gem 'cartographer'
 #gem 'ym4r'
+=======
+gem 'ym4r'
+>>>>>>> 7aaf42a230f96e03312112bf572d33ac45fe625c
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 group :development do
